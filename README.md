@@ -66,11 +66,11 @@ Structured Response
 
 - 一个可用的Replicate账号（需要注册后绑定银行卡）
 
-  ![image-20260107204910003](C:\Users\ZCY\AppData\Roaming\Typora\typora-user-images\image-20260107204910003.png)
+  ![./img/4.1.png](./img/4.1.png)
 
   + 充值页面：[Account settings | Replicate](https://replicate.com/account/billing)
 
-    ![image-20260107204524862](C:\Users\ZCY\AppData\Roaming\Typora\typora-user-images\image-20260107204524862.png)
+    ![./img/4.2.png](./img/4.2.png)
 
 - Replicate API Token
 
@@ -78,7 +78,7 @@ Structured Response
 
   + 测试页面：[Replicate API copy](https://app.apifox.com/project/7670865)
 
-    ![image-20260107204458005](C:\Users\ZCY\AppData\Roaming\Typora\typora-user-images\image-20260107204458005.png)
+    ![./img/4.3.png](./img/4.3.png)
 
 ## 5. 安装与配置
 
@@ -177,7 +177,7 @@ $r.reply
 }
 ```
 
-![image-20260107204650383](C:\Users\ZCY\AppData\Roaming\Typora\typora-user-images\image-20260107204650383.png)
+![./img/7.1.png](./img/7.1.png)
 
 ## 8. 远程部署与端口映射（比如我的开发环境在服务器）
 
