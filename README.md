@@ -184,7 +184,7 @@ $r.reply
 如果服务运行在远程服务器上，可通过SSH端口映射在本地访问：
 
 ```bash
-ssh -p port_num -L 5000:127.0.0.1:5000 name@ip_addr
+ssh -p port_num -L 5000:127.0.0.1:5000 user_name@ip_address
 ```
 
 随后在本地浏览器中访问：
@@ -219,3 +219,4 @@ http://127.0.0.1:5000/
 
 
 This project is intended for research, learning, and demonstration purposes only.
+
