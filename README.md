@@ -1,6 +1,6 @@
 # OCI Intelligent Documentation Assistant
 
-OCI IDA 是一个基于Flask + LangGraph + LLaMA3的助手，用于将自然语言问题转换为结构化的OCI 技术说明，并在合适场景下自动生成OCI CLI Command。
+OCI IDA 是一个基于Flask + LangGraph + LLaMA3的助手，用于将自然语言问题转换为结构化的OCI技术说明，并在合适场景下自动生成OCI CLI Command。
 
 该项目具备以下能力：
 
@@ -14,7 +14,7 @@ OCI IDA 是一个基于Flask + LangGraph + LLaMA3的助手，用于将自然语�
 
 ## 1. 系统概述
 
-OCI IDA采用 多阶段LLM调用 + LangGraph的方式，将一次用户请求拆解为三个阶段：
+OCI IDA采用多阶段LLM调用+LangGraph的方式，将一次用户请求拆解为三个阶段：
 
 + Router：判断问题是否涉及资源操作，是否需要生成OCI CLI command。
 
@@ -219,4 +219,5 @@ http://127.0.0.1:5000/
 
 
 This project is intended for research, learning, and demonstration purposes only.
+
 
